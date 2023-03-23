@@ -1,0 +1,1 @@
+﻿Test-Connection -ComputerName 88.221.24.49
